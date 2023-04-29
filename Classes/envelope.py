@@ -1,8 +1,6 @@
 # start file envelope.py
 
 # TODO: add envelope with target date, even more than a year
-# TODO: add category class, with totals and percentages
-# TODO: add budget class, with totals and percentages
 
 """
 Envelope budgetting tool.
